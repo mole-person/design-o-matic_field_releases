@@ -1,8 +1,8 @@
 {
-  "version_name": "0.2.6",
-  "version_code": 8,
+  "version_name": "0.2.7",
+  "version_code": 9,
   "engine_commit": "250bc48bb2296cf6818b9eb28ba0db7e3ed13f20",
-  "published_utc": "2026-08-17T20:39:36Z",
-  "sha256": "f9ffa2ceea6f2c188c0ee563323f4474414090531bf9bb6a4d65d77453816514",
+  "published_utc": "2026-08-17T21:04:17Z",
+  "sha256": "60244e94572ec0b2150c8aaf20430afa30a54b98d6943f23f0af5407d3ee9fea",
   "apk_url": "https://github.com/mole-person/design-o-matic_field_releases/raw/main/downloads/design-o-matic-field.apk"
 }
